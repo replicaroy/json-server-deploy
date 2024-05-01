@@ -92,5 +92,20 @@
       "url": "https://th.bing.com/th/id/OIP.AzFhy4p0Ji5kWU-cJCRGkAHaLn?w=119&h=187&c=7&r=0&o=5&cb=11&pid=1.7",
       "id": "PnPOsyo"
     }
+  ], "product": [
+    {
+      "id": "71d2",
+      "name": "Ramu F singh",
+      "phone": "54165465321",
+      "email": "psuedodementia@gmail.com",
+      "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg"
+    },
+    {
+      "id": "8bea",
+      "name": "Ramu F singh",
+      "phone": "54165465321",
+      "email": "psuedodementia@gmail.com",
+      "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg"
+    }
   ]
 }
