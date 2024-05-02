@@ -43,13 +43,7 @@
       "thumbnailUrl": "https://th.bing.com/th/id/OIP.B3H_jq48e8k6PqT_YSvX-gHaHa?w=1100&h=1100&rs=1&pid=ImgDetMain"
     }
   ],
-  "CartoonImgs": [
-    {
-      "id": "02e7",
-      "name": "Ramu ",
-      "phone": "04564564654",
-      "url": "https://th.bing.com/th/id/OIP.glYTJlF69Nxx4CVlZPs4WwHaFj?w=247&h=185&c=7&r=0&o=5&cb=11&pid=1.7"
-    },
+  "CartoonImgs": [    
     {
       "id": "b17d",
       "name": "Sunil",
@@ -92,7 +86,6 @@
       "url": "https://th.bing.com/th/id/OIP.AzFhy4p0Ji5kWU-cJCRGkAHaLn?w=119&h=187&c=7&r=0&o=5&cb=11&pid=1.7",
       "id": "PnPOsyo"
     }
-  ], "product": [
-    
+  ], "product": [    
   ]
 }
